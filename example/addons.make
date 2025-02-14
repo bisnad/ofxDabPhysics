@@ -1,0 +1,6 @@
+ofxAssimpModelLoader
+ofxDabBase
+ofxDabMath
+ofxDabOsc
+ofxJSON
+ofxDabPhysics
